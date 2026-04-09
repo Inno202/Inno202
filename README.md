@@ -1,4 +1,4 @@
-👋 Hi, I'm Thembile Innocent Poti — a developer from South Africa with a Diploma in IT, now pursuing an Advanced Diploma in Information Technology.<br/>
+👋 Hi, I'm Thembile Innocent Poti — a developer from South Africa with an Advanced Diploma in IT, now pursuing a Post-Graduate Diploma in Information Technology.<br/>
 📱 I build mobile apps using Flutter<br/>
 🔄 Shifting from backend development to API design<br/>
 🧠 Exploring AI, cybersecurity, and smart systems<br/>
